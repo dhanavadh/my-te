@@ -2,7 +2,7 @@
 import { React, Fragment, useState, useEffect} from 'react';
 import { Dialog, Transition, Popover } from '@headlessui/react'
 import Image from 'next/image';
-import '@/app/components/Navbar.css'
+import '@/app/components/navbar.css'
 import Link from 'next/link';
 
 
